@@ -1,0 +1,22 @@
+[gd_resource type="Theme" load_steps=4 format=2]
+
+[ext_resource path="res://res/impact.ttf" type="DynamicFontData" id=1]
+
+[sub_resource type="DynamicFont" id=1]
+size = 100
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 300
+outline_size = 5
+outline_color = Color( 0.54902, 0.54902, 0.54902, 1 )
+font_data = ExtResource( 1 )
+
+[resource]
+ItemList/colors/font_color = Color( 0, 0, 0, 1 )
+ItemList/colors/font_color_selected = Color( 0.443137, 0.443137, 0.443137, 1 )
+ItemList/fonts/font = SubResource( 1 )
+Label/colors/font_color = Color( 0, 0, 0, 1 )
+Label/colors/font_color_shadow = Color( 0.388235, 0.388235, 0.388235, 0 )
+Label/colors/font_outline_modulate = Color( 1, 1, 1, 1 )
+Label/fonts/font = SubResource( 2 )

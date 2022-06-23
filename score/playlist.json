@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Kad bi svi",
+		"composer": "Arsen Dedic",
+		"tags": ["hr", "hrvatske", "dedic"],
+		"files": ["kad_bi_svi-1.png", "kad_bi_svi-2.png", "kad_bi_svi-3.png"],
+		"lyrics": ""
+	},
+	{
+		"title": "Easy Street",
+		"composer": "",
+		"tags": ["four freshmen"],
+		"files": ["easy_street_r1-1.png", "easy_street_r1-2.png"],
+		"lyrics": ""
+	},
+	{
+		"title": "Ovo ljeto",
+		"composer": "Stjepan Horvat",
+		"tags": ["hrvatske"],
+		"files": ["ovo_ljeto-1.png"],
+		"lyrics": ""
+	},
+	{
+		"title": "Pred svetim kraljem",
+		"composer": "",
+		"tags": ["worship", "hrvatske"],
+		"files": ["pred_svetim_kraljem-mobitel_test-1.png", "pred_svetim_kraljem-mobitel_test-2.png"],
+		"lyrics": ""
+	}
+]

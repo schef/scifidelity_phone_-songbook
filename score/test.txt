@@ -1,0 +1,12 @@
+6.44 inches
+
+c = 163.576
+a = 67.126
+b = 149.16847
+
+1080 x 2400 pixels, 20:9 ratio
+
+a = 9
+b = 20
+c = math.sqrt(math.pow(a, 2)+math.pow(b, 2))
+c = 21.93171219946131
